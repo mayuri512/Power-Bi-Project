@@ -1,6 +1,6 @@
 # Power-Bi-Project
 
-Data Scientists Salary Project Description
+#  Data Scientists Salary Project Description #
 This project aims to explore and analyze factors that influence the salaries of Data Scientists. The insights gained can be valuable for both aspiring and experienced Data Scientists in the job market.
 
 Project Goals:
